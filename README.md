@@ -68,7 +68,7 @@ The global DDoS mitigation and protection market is estimated at **$4.8 Billion 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Fail2Ban](https://github.com/fail2ban/fail2ban)** [![Stars](https://img.shields.io/github/stars/fail2ban/fail2ban?style=social&color=white)](https://github.com/fail2ban/fail2ban/stargazers)  
   **Intrusion prevention software**, GPL-2.0 licensed. **Monitors log files (SSH, Apache, Nginx)** and dynamically updates firewall rules (iptables/nftables) to ban malicious IP addresses displaying DDoS or brute-force patterns. 🚫
@@ -114,7 +114,7 @@ Contributions are welcome! Follow these steps to submit new DDoS protection plat
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
